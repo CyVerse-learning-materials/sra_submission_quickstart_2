@@ -10,9 +10,9 @@ extensions = [
     'sphinx.ext.autodoc',
 ]
 
-project = 'YOUR PROJECT NAME HERE as topic_quick_start'
+project = 'Submit sequence reads to NCBI SRA Quickstart'
 copyright = '2020, CyVerse'
-author = 'CyVerse'
+author = 'Jason Williams'
 version = '2.0'
 release = '2.0'
 

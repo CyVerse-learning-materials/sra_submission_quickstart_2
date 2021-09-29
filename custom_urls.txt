@@ -1,6 +1,9 @@
 .. Comment: Version 2.0, May 2020
 .. Comment: URLS
 
+.. |Github Repo Link| raw:: html
+
+   <a href="XXXXXXXXXXX" target="blank">Github Repo Link</a>
 
 .. Comment: Fix this link if you are using a quicklaunch button
 
@@ -8,3 +11,95 @@
     :width: 125
     :height: 20
     :target: https://de.cyverse.org/de/  target="_blank"
+
+
+.. |NCBI Sequence Read Archive (SRA)| raw:: html
+
+   <a href="https://www.ncbi.nlm.nih.gov/sra" target="blank">NCBI Sequence Read Archive (SRA)</a>
+
+
+.. |Cyberduck| raw:: html
+
+   <a href="https://cyberduck.io/download/" target="blank">Cyberduck</a>
+
+
+.. |NCBI Account Registration| raw:: html
+
+   <a href="https://www.ncbi.nlm.nih.gov/account/register/" target="blank">NCBI Account Registration</a>
+
+
+.. |NCBI Account| raw:: html
+
+   <a href="https://www.ncbi.nlm.nih.gov/account" target="blank">NCBI Account</a>
+
+.. |SRA File Format Guide| raw:: html
+
+   <a href="https://www.ncbi.nlm.nih.gov/sra/docs/submitformats/" target="blank">SRA File Format Guide</a>
+
+
+.. |Sample truncated sample FastQ files| raw:: html
+
+   <a href="http://datacommons.cyverse.org/browse/iplant/home/shared/cyverse_training/quickstarts/sra_submission/00_input_fastq_files" target="blank">Sample truncated sample FastQ files</a>
+
+
+.. |NCBI SRA Submission Quick Start| raw:: html
+
+   <a href="https://www.ncbi.nlm.nih.gov/sra/docs/submit/" target="blank">NCBI SRA Submission Quick Start</a>
+
+
+.. |pigz-2.3.4 (Compress multiple files with gzip parallely)| raw:: html
+
+   <a href="https://de.cyverse.org/apps/de/079795a8-2ba5-11e7-a159-008cfa5ae621/launch" target="blank">pigz-2.3.4 (Compress multiple files with gzip parallely)</a>
+
+
+.. |Example submission| raw:: html
+
+   <a href="http://datacommons.cyverse.org/browse/iplant/home/shared/cyverse_training/quickstarts/sra_submission/00_input_fastq_files" target="blank">Example submission</a>
+
+
+.. |Example folder| raw:: html
+
+   <a href="https://datacommons.cyverse.org/browse/iplant/home/shared/cyverse_training/quickstarts/sra_submission/01_BioProjectExample" target="blank">Example folder</a>
+
+
+.. |example template| raw:: html
+
+   <a href="http://datacommons.cyverse.org/browse/iplant/home/shared/cyverse_training/quickstarts/sra_submission/01_BioProjectExample/BioProject_metadata.csv" target="blank">example template</a>
+
+
+.. |example biosample template| raw:: html
+
+   <a href="http://datacommons.cyverse.org/browse/iplant/home/shared/cyverse_training/quickstarts/sra_submission/01_BioProjectExample/BioSample_metadata.csv" target="blank">example biosample template</a>
+
+
+.. |example library template| raw:: html
+
+   <a href="http://datacommons.cyverse.org/browse/iplant/home/shared/cyverse_training/quickstarts/sra_submission/01_BioProjectExample/SRA_library_metadata.csv" target="blank">example library template</a>
+
+
+.. |submission metadata file| raw:: html
+
+   <a href="http://datacommons.cyverse.org/browse/iplant/home/shared/cyverse_training/quickstarts/sra_submission/01_BioProjectExample/submission_metadata.xml" target="blank">submission metadata file</a>
+
+.. |NCBI SRA Submission - BioProject Creation| raw:: html
+
+   <a href="https://de.cyverse.org/apps/de/12b3d052-ff2c-11e4-93e3-7bd94c69063a/launch" target="blank">NCBI SRA Submission - BioProject Creation</a>
+
+
+.. |submission progress| raw:: html
+
+   <a href="https://submit.ncbi.nlm.nih.gov/subs/ <https://submit.ncbi.nlm.nih.gov/subs/" target="blank">submission progress</a>
+
+
+.. |sra_8| image:: ./img/sra_8.png
+   :width: 825
+   :height: 625
+
+.. |apps icon| image:: ./img/de/apps_icon.png
+    :width: 40px
+
+.. |analyses icon| image:: ./img/de/analyses_icon.png
+    :width: 40px
+
+.. |Data_icon| image:: ./img/de/data_icon.png
+    :width: 40px
